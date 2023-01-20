@@ -1,0 +1,100 @@
+
+
+Jet Combination : 3
+Initial event : 66637
+Total events analyzed : 66637
+Event with less than 4 nJetSel : 9821
+Event with less than four quark-jet pair 34852
+Passed Events : 21964 (100.0%)
+All combination run event number : 21964
+% diff = 100.0%
+
+Jet Combination : 4
+Initial event : 66637
+Total events analyzed : 66637
+Event with less than 4 nJetSel : 9821
+Event with less than four quark-jet pair 51758
+Passed Events : 5058 (23.0286%)
+All combination run event number : 21964
+% diff = 76.9714%
+
+Jet Combination : 5
+Initial event : 66637
+Total events analyzed : 66637
+Event with less than 4 nJetSel : 9821
+Event with less than four quark-jet pair 41980
+Passed Events : 14836 (67.5469%)
+All combination run event number : 21964
+% diff = 44.5183%
+
+Jet Combination : 6
+Initial event : 66637
+Total events analyzed : 66637
+Event with less than 4 nJetSel : 9821
+Event with less than four quark-jet pair 37202
+Passed Events : 19614 (89.3007%)
+All combination run event number : 21964
+% diff = 21.7538%
+
+Jet Combination : 7
+Initial event : 66637
+Total events analyzed : 66637
+Event with less than 4 nJetSel : 9821
+Event with less than four quark-jet pair 35536
+Passed Events : 21280 (96.8858%)
+All combination run event number : 21964
+% diff = 7.5851%
+
+Jet Combination : 8
+Initial event : 66637
+Total events analyzed : 66637
+Event with less than 4 nJetSel : 9821
+Event with less than four quark-jet pair 35054
+Passed Events : 21762 (99.0803%)
+All combination run event number : 21964
+% diff = 2.1945%
+
+Jet Combination : 9
+Initial event : 66637
+Total events analyzed : 66637
+Event with less than 4 nJetSel : 9821
+Event with less than four quark-jet pair 34889
+Passed Events : 21927 (99.8315%)
+All combination run event number : 21964
+% diff = 0.7512%
+
+Jet Combination : 10
+Initial event : 66637
+Total events analyzed : 66637
+Event with less than 4 nJetSel : 9821
+Event with less than four quark-jet pair 34859
+Passed Events : 21957 (99.9681%)
+All combination run event number : 21964
+% diff = 0.1366%
+
+Jet Combination : 11
+Initial event : 66637
+Total events analyzed : 66637
+Event with less than 4 nJetSel : 9821
+Event with less than four quark-jet pair 34853
+Passed Events : 21963 (99.9954%)
+All combination run event number : 21964
+% diff = 0.0273%
+
+Jet Combination : 12
+Initial event : 66637
+Total events analyzed : 66637
+Event with less than 4 nJetSel : 9821
+Event with less than four quark-jet pair 34852
+Passed Events : 21964 (100.0%)
+All combination run event number : 21964
+% diff = 0.0046%
+
+Jet Combination : 13
+Initial event : 66637
+Total events analyzed : 66637
+Event with less than 4 nJetSel : 9821
+Event with less than four quark-jet pair 34852
+Passed Events : 21964 (100.0%)
+All combination run event number : 21964
+% diff = 0.0%
